@@ -130,4 +130,6 @@
   Made with ❤️ by CivoraX Team
 </p>
 
-
+<p align="center">
+  Made with ❤️ by CivoraX Team.
+</p>
